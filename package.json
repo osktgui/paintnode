@@ -1,0 +1,24 @@
+{
+  "name": "paintnode",
+  "version": "1.0.0",
+  "description": "This is paint in Real Time",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "paint",
+    "nodejs",
+    "javascript",
+    "css",
+    "html",
+    "jade",
+    "sass"
+  ],
+  "author": "osktgui",
+  "license": "ISC"
+}
